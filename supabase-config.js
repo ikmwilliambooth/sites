@@ -1,6 +1,6 @@
 // Ganti dengan kredensial project Supabase Anda
-const supabaseUrl = "https://pgonbbemrnebjlxibtyn.supabase.co";
-const supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBnb25iYmVtcm5lYnpseGlidHluIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAyNjI3MzMsImV4cCI6MjEwNTgzODczM30.6Fm9VRxiE5g7Uw5JKEEBTBMUyHula1KcLytlCXrJJ5k";
+const supabaseUrl = "https://xbngldmybppbwpsoprcp.supabase.co";
+const supabaseAnonKey = "sb_publishable_FNa0c5SJN078G9SDAeutVQ_4Ak6GQeu";
 
 window.supabaseClient = supabase.createClient(supabaseUrl, supabaseAnonKey, {
   auth: {
